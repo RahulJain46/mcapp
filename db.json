@@ -1,0 +1,7 @@
+{
+    "users": [
+      { "id": 1, "accessToken": "50c225be-46a6-424f-8d6c-49d8f744d8e7", "token": "e3b97eae-7ecb-4182-a3e2-1f8deeb5ff33" },
+      { "id": 2, "accessToken": "50c225be-46a6-424f-8d6c-49d8f744d8f4", "token": "e3b97eae-7ecb-4182-a3e2-1f8deeb5ff2e" },
+      { "id": 3, "accessToken": "50c225be-46a6-424f-8d6c-49d8f744d8g2", "token": "e3b97eae-7ecb-4182-a3e2-1f8deeb5ff323" }
+    ]
+  }

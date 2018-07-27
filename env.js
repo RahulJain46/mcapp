@@ -2,7 +2,7 @@ import { Constants } from 'expo';
 
 const ENV = {
   dev: {
-    apiUrl: 'http://localhost:1337/api'
+    apiUrl: 'http://localhost:3000/users'
   },
   staging: {
     apiUrl: 'https://www.googleapis.com/userinfo/v2/me'
